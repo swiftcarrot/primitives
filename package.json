@@ -17,7 +17,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.5",
-    "@emotion/core": "^10.0.14"
+    "@emotion/core": "^10.0.14",
+    "@xkit/spinner": "^0.2.3",
+    "react-slick": "^0.24.0"
   },
   "author": "Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
   "license": "MIT",
