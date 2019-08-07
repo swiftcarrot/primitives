@@ -11,3 +11,5 @@ export Picker from './Picker';
 export Badge from './Badge';
 export Carousel from './Carousel';
 export Loading from './Loading';
+export NavigationBar from './NavigationBar';
+export TabBar from './TabBar';
