@@ -36,5 +36,17 @@
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.0.1",
     "rollup-plugin-node-resolve": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swiftcarrot/primitives.git"
+  },
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "bugs": {
+    "url": "https://github.com/swiftcarrot/primitives/issues"
+  },
+  "homepage": "https://github.com/swiftcarrot/primitives#readme"
 }
